@@ -64,7 +64,7 @@ p {
 		display: inline-block;
 		width: 47%;
 		height: 50%;
-		border: 3px solid #AAA;
+		border: 1px solid black;
 		margin: 1%;
 		text-align: center;
 	}
